@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homeKuepa/static/css/main.a617e044.chunk.css",
+    "main.js": "/homeKuepa/static/js/main.b726703f.chunk.js",
+    "main.js.map": "/homeKuepa/static/js/main.b726703f.chunk.js.map",
+    "runtime-main.js": "/homeKuepa/static/js/runtime-main.1092cdae.js",
+    "runtime-main.js.map": "/homeKuepa/static/js/runtime-main.1092cdae.js.map",
+    "static/js/2.d3fe6ec3.chunk.js": "/homeKuepa/static/js/2.d3fe6ec3.chunk.js",
+    "static/js/2.d3fe6ec3.chunk.js.map": "/homeKuepa/static/js/2.d3fe6ec3.chunk.js.map",
+    "static/js/3.918ce3e3.chunk.js": "/homeKuepa/static/js/3.918ce3e3.chunk.js",
+    "static/js/3.918ce3e3.chunk.js.map": "/homeKuepa/static/js/3.918ce3e3.chunk.js.map",
+    "index.html": "/homeKuepa/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/homeKuepa/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d3fe6ec3.chunk.js.LICENSE.txt": "/homeKuepa/static/js/2.d3fe6ec3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/homeKuepa/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1092cdae.js",
+    "static/js/2.d3fe6ec3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b726703f.chunk.js"
+  ]
+}
