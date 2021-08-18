@@ -1,0 +1,34 @@
+.callsPrincipalContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+.nombre{
+    width: 22%;
+}
+.llamarContainer{
+    display: flex;
+    flex-direction: column;
+}
+.llamarContainer p:first-child{
+    font-size: 110%;
+    color: black;
+}
+.llamarContainer p{
+    font-family: Helvetica;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    color: grey;
+}
+.iconsContainer{
+    display: flex;
+}
+
+.iconsContainer div{
+    margin: 3px;
+}
+.iconsContainer div:first-child{
+    margin-right: 10px;
+}

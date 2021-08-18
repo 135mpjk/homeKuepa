@@ -1,0 +1,20 @@
+.notificationPrincipalContainer{
+    margin-top: 20px;
+    
+}
+.nombre_notification{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(87, 87, 87);
+    display: flex;
+    justify-content: center;
+    border-radius: 0 0 10px 10px;
+    color: beige;
+}
+
+.espacio_notification{
+    width: 100px;
+    height: 20px;
+    background-color: #b9b9b9;
+    border-radius: 10px 10px 0 0;
+}

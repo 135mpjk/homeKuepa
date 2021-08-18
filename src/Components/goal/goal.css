@@ -1,0 +1,33 @@
+.goalPrincipalContainer{
+    background-color:rgb(255,255,255) ;
+    padding:10px;
+    border-radius: 8%;
+    height: auto;
+    margin-left: 5%;
+}
+.goalPrincipalContainer h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.info_var p{
+    font-size: 13px;
+    padding: 8px 0;
+    margin: 0;
+}
+.progress_var {
+    background: #D3D3D3;
+    height: 6px;
+    width: 150px;
+    padding: 3px;
+}
+
+.progress_var:after {
+    content: '';
+    display: block;
+    background: linear-gradient(90deg, rgba(255,137,137,1) 6%, rgba(254,201,127,1) 100%);;
+    width: 52%;
+    height: 100%;
+  
+}
